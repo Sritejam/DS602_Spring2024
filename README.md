@@ -1,5 +1,5 @@
 # DATA 602: Introduction to Machine Learning
-## Fall 2023
+## Spring 2024
 ## Class
 
 DATA 602-01 (2022)
