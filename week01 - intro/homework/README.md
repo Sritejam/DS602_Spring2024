@@ -28,7 +28,7 @@
 9. Commit changes and push.
 
 Now we are good to start Homework 1
-# Homework (Due date: February 4, 2024)
+# Homework (Due date: February 11, 2024)
 
 1. Now you are ready to start your homework week1.
 1. Create a folder __week01__ in your repo root. 
